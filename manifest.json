@@ -1,0 +1,9 @@
+{
+  "name": "Readly",
+  "short_name": "Readly",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#1E293B",
+  "icons": []
+}
