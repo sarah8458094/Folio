@@ -66,3 +66,29 @@ nav button {
     background: transparent;
     font-size: 12px;
 }
+
+.page {
+    display: none;
+    padding-bottom: 90px;
+}
+
+.page.active {
+    display: block;
+}
+
+.page h1 {
+    font-size: 32px;
+    color: #1E293B;
+}
+
+.add-btn {
+    background: #55765B;
+    color: white;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    font-size: 28px;
+    margin-top: -28px;
+}
+
+
